@@ -55,4 +55,4 @@ print(waypoints[0])
 # YOUR CODE HERE
 for e in waypoints:
     for f in e:
-        print(f)
+        print(e[f])
